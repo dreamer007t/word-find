@@ -1,0 +1,1 @@
+[{"letters": ["G", "H", "M", "G", "I", "O", "A", "H", "I"], "words": ["HIM"], "score": 8}, {"letters": ["N", "U", "X", "P", "I", "A", "E", "S", "I"], "words": ["NAP", "PAIN", "PAN", "PIE", "PUN", "SIN", "SIP", "SNAP", "SPINE", "USE", "SNIPE", "PEAS"], "score": 50}]
